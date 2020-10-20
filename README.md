@@ -1,4 +1,4 @@
-### Hi there, I'm Skyler - aka [sky8the2flies][https://github.com/sky8the2flies]
+### Hi there, I'm Skyler - aka [sky8the2flies][todo]
 
 ## I'm a Student, Information Gatherer, and Passionate Developer
 
