@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="sky8the2flies's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sky8the2flies&show_icons=true&hide_border=true&hide=commits,prs,issues" />
+  <img align="left" alt="sky8the2flies's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sky8the2flies&show_icons=true&hide_border=true&hide=stars,issues" />
 
 </details>
 
