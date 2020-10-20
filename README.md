@@ -33,6 +33,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="sky8the2flies's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sky8the2flies&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/sky8the2flies
 [linkedin]: https://www.linkedin.com/in/skylerseifert/
 [todo]: https://github.com/sky8the2flies
