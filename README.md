@@ -2,7 +2,6 @@
 
 ## I'm a Student, Information Gatherer, and Passionate Developer
 
--   💼 I'm currently working on [sbook][cur_working]
 -   🌱 I'm currently learning everything for the web!
 -   ⚡ Fun Fact: I love to play tennis and Dungeons and Dragons.
 
