@@ -1,6 +1,6 @@
 ### Hi there, I'm Skyler - aka [sky8the2flies][todo]
 
-## I'm a Student, Information Gatherer, and Passionate Developer
+## I'm a Information Gatherer, and Passionate Developer
 
 -   🌱 I'm currently learning everything for the web!
 -   ⚡ Fun Fact: I love to play tennis and Dungeons and Dragons.
